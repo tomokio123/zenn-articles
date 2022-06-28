@@ -1,5 +1,5 @@
 ---
-title: "一回めの記事"
+title: "コマンドについて"
 emoji: "💨"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["ターミナル","コマンド"]
